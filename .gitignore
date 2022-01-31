@@ -1,0 +1,10 @@
+# vim swap
+*.swp
+# node modules
+node_modules
+
+# Python
+__pycache__
+.venv
+venv
+venv/
